@@ -86,4 +86,18 @@ $dbname = "restaurantdb";
 ![bb47fed4-4d3d-4e7d-9340-47625df3c64d](https://github.com/user-attachments/assets/62999580-0267-4e68-b8b7-6e471b87e44d)
 
 
+🏷️ Topics & Keywords
+
+![PHP](https://img.shields.io/badge/PHP-7.4-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Restaurant](https://img.shields.io/badge/Category-Restaurant-red)
+![POS](https://img.shields.io/badge/System-POS-green)
+![Admin Panel](https://img.shields.io/badge/Module-Admin%20Panel-purple)
+![Management](https://img.shields.io/badge/Type-Management-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![SCSS](https://img.shields.io/badge/SCSS-Styles-pink)
+![Responsive](https://img.shields.io/badge/Design-Responsive-success)
+![Website](https://img.shields.io/badge/Project-Website-informational)
 
