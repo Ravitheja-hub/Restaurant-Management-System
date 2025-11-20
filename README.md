@@ -101,3 +101,6 @@ $dbname = "restaurantdb";
 ![Responsive](https://img.shields.io/badge/Design-Responsive-success)
 ![Website](https://img.shields.io/badge/Project-Website-informational)
 
+📄 License
+
+This project is licensed under the Apache-2.0 License.
