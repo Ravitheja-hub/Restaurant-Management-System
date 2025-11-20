@@ -72,4 +72,20 @@ $dbname = "restaurantdb";
 🖼️ Screenshots
 ![5577e8b1-6047-441d-9929-06e641863651](https://github.com/user-attachments/assets/0a029de3-973e-4640-8b57-0f6e26a09838)
 
+![d9f11ed4-2f73-4526-b068-fb9346f19b3d](https://github.com/user-attachments/assets/9a4789ff-ee5c-4acf-a560-2071af448f59)
+
+![fa2f17e1-88de-4ec4-ba64-13cf129ff7ea](https://github.com/user-attachments/assets/a94975b3-2332-4f41-ba61-20a1ab941539)
+
+![bd1b7dbb-2e70-4b7b-8a7b-8ce0a4ef08f8](https://github.com/user-attachments/assets/b4cb030c-33b8-45ee-82ed-319f910d8227)
+
+![6e4336ce-28c5-437c-b526-87e7ed5aa19d](https://github.com/user-attachments/assets/e60b3b56-895f-45e0-9bff-8c8b563782f5)
+
+![65db40c6-bf10-49c9-b7b9-2ff88b520a![bb47fed4-4d3d-4e7d-9340-47625df3c64d](https://github.com/user-attachments/assets/6df582ff-9411-4de7-ba78-403084c9f810)
+87](https://github.com/user-attachments/assets/a3797d59-3b52-4e73-875a-4e5a892fefdd)
+
+![Uploading bb47fed4-4d3d-4e7d-9340-47625df3c64d.jpg…]()
+
+
+
+
 
