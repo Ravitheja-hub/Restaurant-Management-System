@@ -83,9 +83,7 @@ $dbname = "restaurantdb";
 ![65db40c6-bf10-49c9-b7b9-2ff88b520a![bb47fed4-4d3d-4e7d-9340-47625df3c64d](https://github.com/user-attachments/assets/6df582ff-9411-4de7-ba78-403084c9f810)
 87](https://github.com/user-attachments/assets/a3797d59-3b52-4e73-875a-4e5a892fefdd)
 
-![Uploading bb47fed4-4d3d-4e7d-9340-47625df3c64d.jpg…]()
-
-
+![bb47fed4-4d3d-4e7d-9340-47625df3c64d](https://github.com/user-attachments/assets/62999580-0267-4e68-b8b7-6e471b87e44d)
 
 
 
