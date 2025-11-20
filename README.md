@@ -3,21 +3,21 @@ Online Restaurant Management System built using PHP and MySQL. This project prov
 
 ✨ Features
 
-Fully responsive modern UI using Bootstrap
+1) Fully responsive modern UI using Bootstrap.
 
-Dynamic pages powered by PHP
+2) Dynamic pages powered by PHP.
 
-Includes reusable components: config.php, App.php, and header.php
+3) Includes reusable components: config.php, App.php, and header.php.
 
-Beautiful hero section with animations
+4) Beautiful hero section with animations.
 
-About Us section with images and restaurant details
+5) About Us section with images and restaurant details.
 
-Team Members section styled with FontAwesome icons
+6) Team Members section styled with FontAwesome icons.
 
-Clean folder structure with includes, libs, and img directories
+7) Clean folder structure with includes, libs, and img directories.
 
-Easily customizable and extendable for real restaurant use
+8) Easily customizable and extendable for real restaurant use.
 
 🛠 Tech Stack
 
