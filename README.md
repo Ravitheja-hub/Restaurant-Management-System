@@ -68,7 +68,8 @@ $user = "root";
 $pass = "";
 $dbname = "restaurantdb";
 
+
 🖼️ Screenshots
+![5577e8b1-6047-441d-9929-06e641863651](https://github.com/user-attachments/assets/0a029de3-973e-4640-8b57-0f6e26a09838)
 
 
-<img width="616" height="180" alt="Screenshot 2025-10-05 102827" src="https://github.com/user-attachments/assets/02cb3902-82d5-4b2b-8ecd-b9a3a0da81be" />
