@@ -1,34 +1,74 @@
-# Restaurant-Management-System
-Online Restaurant Management System built using PHP and MySQL. This project provides a complete web-based solution for managing a restaurant’s website, including menu display, reservations, team details, and dynamic content management.
+🎯 Overview
 
-✨ Features
+This Restaurant Website & Management System is a complete solution built using PHP 7.4, MySQL, HTML/CSS, JavaScript, and SCSS.
+It includes a modern customer-facing website and a powerful Admin Panel for managing reservations, menu items, users, and content.
 
-1) Fully responsive modern UI using Bootstrap.
+🚀 Features:
+👨‍🍳 Customer Website (users side)
 
-2) Dynamic pages powered by PHP.
+✔️ Browse food/menu items
+✔️ View restaurant details
+✔️ Make table bookings
+✔️ Contact the restaurant
+✔️ User login & registration
+✔️ Profile management
+✔️ Responsive, mobile-friendly UI
 
-3) Includes reusable components: config.php, App.php, and header.php.
+🛠️ Admin Panel (admin-panel/)
 
-4) Beautiful hero section with animations.
+✔️ Manage reservations
+✔️ CRUD for menu items & food images
+✔️ Manage users
+✔️ Upload images & update website sections
+✔️ Admin authentication
+✔️ Dashboard with quick stats
+✔️ Organized module structure
 
-5) About Us section with images and restaurant details.
+📁 Project Structure
+📦 Project Root
+├── SQL_FILE/         → Database .sql file(s)
+├── admin-panel/      → Admin dashboard & management modules
+├── auth/             → Login / Register / Logout / Sessions
+├── config/           → Database config files
+├── css/              → Compiled CSS
+├── scss/             → SCSS styling files
+├── js/               → JavaScript files
+├── img/              → Website images
+├── food/             → Food/item images
+├── includes/         → Reusable components (header, footer)
+├── lib/ and libs/    → Library files
+├── users/            → Customer-side pages
+│
+├── index.php         → Homepage
+├── about.php         → About page
+├── booking.php       → Booking form
+├── booking-table.php → Table reservation page
+├── contact.php       → Contact page
+├── 404.php           → Custom error page
 
-6) Team Members section styled with FontAwesome icons.
+⚙️ Setup Guide (XAMPP / Localhost)
 
-7) Clean folder structure with includes, libs, and img directories.
+📌 Step-by-step Installation
+Install XAMPP
 
-8) Easily customizable and extendable for real restaurant use.
+Start Apache & MySQL
 
-🛠 Tech Stack
+Copy the project folder into:
+C:\xampp\htdocs\
 
-Frontend: HTML, CSS, Bootstrap, JavaScript
+Open phpMyAdmin → Create database:
+restaurantdb
 
-Backend: PHP
+Import SQL file from:
+SQL_FILE/
 
-Database: MySQL
+Check config/config.php and edit if needed:
+$host = "localhost";
+$user = "root";
+$pass = "";
+$dbname = "restaurantdb";
 
-Libraries: WOW.js animations, FontAwesome icons
+🖼️ Screenshots
 
-📌 Project Purpose
 
-This project demonstrates skills in PHP development, UI/UX design, dynamic components, and integrating frontend templates with backend logic. Suitable for learning purposes, portfolios, and restaurant website development.
+<img width="616" height="180" alt="Screenshot 2025-10-05 102827" src="https://github.com/user-attachments/assets/02cb3902-82d5-4b2b-8ecd-b9a3a0da81be" />
